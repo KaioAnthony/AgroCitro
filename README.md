@@ -144,21 +144,3 @@ Você pode testar essas rotas usando ferramentas de desenvolvimento como [Postma
 * **CORS**: Caso deseje permitir acessos externos (por exemplo, de uma frontend hospedada em outro servidor), você pode precisar configurar o [CORS](https://expressjs.com/en/resources/middleware/cors.html) no Express.
 
 ---
-
-Obrigado por usar o **Sistema de Gerenciamento de Plantio, Irrigação e Colheita**! Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request!
-
-## Resumo do que foi incluído:
-
-* **Introdução e objetivos** do projeto.
-* **Pré-requisitos** e como instalá-los.
-* **Passo a passo detalhado** de como configurar e rodar a aplicação, incluindo a configuração do banco de dados.
-* **Endpoints da API** com a descrição e os dados necessários.
-* **Exemplos de sucesso e erro** para ajudar na validação das rotas.
-
-Agora o documento está completo e organizado, pronto para ser utilizado como um `README.md` no seu repositório!
-
-```
-
-Esse é o formato Markdown para o seu arquivo `README.md`, pronto para ser utilizado no seu repositório.
-```
-
